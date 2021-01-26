@@ -1,7 +1,7 @@
 # hud-data
 
 
-This repo pulls together FHA mortgage foreclosure and delinquency data from HUD. It also, pulls median home values from
+This repo pulls together FHA mortgage foreclosure and delinquency data from HUD. It also pulls median home values from
 zillow and calculates the quarterly change. The three data sets are joined on the county fips id and quarterly date.
 
 
